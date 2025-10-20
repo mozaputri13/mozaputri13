@@ -1,7 +1,7 @@
 # 🧚🏻‍♂️ my biodata :
- 🌀 name : moza putri nugraha 
- 👼 born : sukabumi, 13 september 2006
- 🏠 home : jampangkulon,sukabumi 
+ 🌀 name : moza putri nugraha<br>
+ 👼 born : sukabumi, 13 september 2006<br>
+ 🏠 home : jampangkulon,sukabumi<br>
 
 I’m currently working on task <br>
 👯 I’m looking to collaborate on muslimah women group<br>
