@@ -1,5 +1,14 @@
 # 🧚🏻‍♂️ my biodata :
-🔭 I’m currently working on task <br>👯 I’m looking to collaborate on muslimah women group<br>🤝 I’m looking for help with internet<br>🌱 I’m currently learning language<br>💬 Ask me about my favorite<br>⚡ Fun fact i can cook
+ 🌀 name : moza putri nugraha 
+ 👼 born : sukabumi, 13 september 2006
+ 🏠 home : jampangkulon,sukabumi 
+
+I’m currently working on task <br>
+👯 I’m looking to collaborate on muslimah women group<br>
+🤝 I’m looking for help with internet<br>
+🌱 I’m currently learning language<br>
+💬 Ask me about my favorite<br>
+⚡ Fun fact i can cook
 
 
 ## 🌐 Socials:
