@@ -1,18 +1,16 @@
-# 🧚🏻‍♂️ my biodata :
- 🌀 name : moza putri nugraha<br>
- 👼 born : sukabumi, 13 september 2006<br>
- 🏠 home : jampangkulon,sukabumi<br>
+#         🎀 my biodata 🎀 
+ 🌀 name : moza putri nugraha 🧚🏻‍♂️ <br>
+ 👼 born : sukabumi, 13 september 2006 🎉 <br>
+ 🏠 home : jampangkulon,sukabumi 🖼️ <br>
 
-I’m currently working on task <br>
-👯 I’m looking to collaborate on muslimah women group<br>
-🤝 I’m looking for help with internet<br>
-🌱 I’m currently learning language<br>
-💬 Ask me about my favorite<br>
-⚡ Fun fact i can cook
+🫧 I’m like drawing 🎨 <br>
+🫧 my hobby is cooking 🥘 <br>
+🫧 I'm like joining organization 🗂️ <br>
+🫧 my favorite arabic language 📨 <br>
 
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/moza putri nugraha ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moza putri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mozzzz13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moza putri nugraha ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/putrimoza) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@m) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@moza putri ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:putrimoza51@gmail.com) 
+## 🌐 media sosial 📱:
+[![  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moza putri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mozzzz13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moza putri nugraha ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/putrimoza) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@m) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@moza putri ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:putrimoza51@gmail.com) 
 
 # 💻 Tech Stack:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
