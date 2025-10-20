@@ -1,4 +1,4 @@
-#         🎀 my biodata 🎀 
+# 🎀 my biodata 🎀 
  🌀 name : moza putri nugraha 🧚🏻‍♂️ <br>
  👼 born : sukabumi, 13 september 2006 🎉 <br>
  🏠 home : jampangkulon,sukabumi 🖼️ <br>
